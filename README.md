@@ -1,3 +1,13 @@
+Neopolisの新歓サイトを想定して練習する
+
+ギャラリーとか、年間活動予定、Q＆Aも設置したいな。
+youtubeとかTwitterの埋め込みもしたい。
+あと、ホームでお知らせは必要かな
+
+
+
+
+
 Progressus - Free business/corporate Bootstrap template
 =============
 
